@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaoe\\OneDrive\\\u684C\u9762\\Programming-Languages-Homework-4\\P07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D11889F-42D7-4088-AED5-8AD94BF66FCA}|P07\\P07.vcxproj|C:\\Users\\shaoe\\OneDrive\\\u684C\u9762\\Programming-Languages-Homework-4\\P07\\P07\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D11889F-42D7-4088-AED5-8AD94BF66FCA}|P07\\P07.vcxproj|solutionrelative:P07\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\shaoe\\OneDrive\\\u684C\u9762\\Programming-Languages-Homework-4\\P07\\P07\\Main.c",
+              "RelativeDocumentMoniker": "P07\\Main.c",
+              "ToolTip": "C:\\Users\\shaoe\\OneDrive\\\u684C\u9762\\Programming-Languages-Homework-4\\P07\\P07\\Main.c",
+              "RelativeToolTip": "P07\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-08T14:02:30.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
